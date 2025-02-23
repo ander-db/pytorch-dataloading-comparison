@@ -1,2 +1,3 @@
-# pytorch-dataloading-comparison
-A comprehensive guide and comparison of strategies for efficient data loading and management in PyTorch. Explore techniques like lazy loading, caching, preloading, and more to optimize your dataset pipelines for training deep learning models.
+# PyTorch Data Loading Strategies
+
+This repository explores and compares various strategies for efficient data loading and management in PyTorch. The goal is to provide a clear understanding of different approaches, their trade-offs, and practical implementations to help you optimize your data pipelines for deep learning projects.
